@@ -1,2 +1,2 @@
 # JavaScript-
-There we upload my JS journey and topic that covered.
+There we upload my C++ journey and topic that covered.
